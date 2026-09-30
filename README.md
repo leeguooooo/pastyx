@@ -26,10 +26,11 @@ Or install from the terminal:
 curl -fsSL https://raw.githubusercontent.com/leeguooooo/pastyx/main/install.sh | sh
 ```
 
-Requires macOS 26 or newer (Apple silicon and Intel).
+Requires macOS 14 or newer (Apple silicon and Intel).
 
-**Windows 10/11:** [download Pastyx for Windows](https://paste.leeguoo.com/download/windows) — unzip and run `install.cmd`
-(per-user install, no admin). The same license works on Mac and Windows (up to 3 devices).
+**Windows 10 (version 2004 or later) / 11:** [download Pastyx for Windows](https://paste.leeguoo.com/download/windows) — run
+`Pastyx-Setup-x64.exe` and choose where to install (no administrator rights needed for a just-me install).
+The same license works on Mac and Windows (up to 3 devices).
 
 **iPhone & iPad:** *Pastyx: Clipboard Sync* — free companion app with the Pastyx Keyboard (coming to the App Store).
 

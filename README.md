@@ -5,7 +5,7 @@
 # Pastyx
 
 **Everything you copy, one keystroke away.**
-A fast, native clipboard manager for macOS.
+A fast, native clipboard manager for Mac, Windows, iPhone and iPad.
 
 </div>
 
@@ -27,6 +27,11 @@ curl -fsSL https://raw.githubusercontent.com/leeguooooo/pastyx/main/install.sh |
 ```
 
 Requires macOS 26 or newer (Apple silicon and Intel).
+
+**Windows 10/11:** [download Pastyx for Windows](https://paste.leeguoo.com/download/windows) — unzip and run `install.cmd`
+(per-user install, no admin). The same license works on Mac and Windows (up to 3 devices).
+
+**iPhone & iPad:** *Pastyx: Clipboard Sync* — free companion app with the Pastyx Keyboard (coming to the App Store).
 
 ## What it does
 

@@ -5,7 +5,7 @@
 # Pastyx
 
 **Everything you copy, one keystroke away.**
-A fast, native clipboard manager for Mac, Windows, iPhone and iPad.
+A native clipboard history manager for Mac and Windows, with a web app and an upcoming iPhone/iPad companion.
 
 </div>
 
@@ -46,6 +46,12 @@ The same license works on Mac and Windows (up to 3 devices).
   your clips from [the web](https://paste.leeguoo.com).
 
 <img src="assets/screenshot-settings.png" alt="Pastyx settings" width="100%" />
+
+## Sync and privacy guide
+
+[Sync clipboard history between Mac, Windows and the web](https://paste.leeguoo.com/en/guides/clipboard-sync) · [中文指南](https://paste.leeguoo.com/guides/clipboard-sync) · [Product brief for AI readers](https://paste.leeguoo.com/llms.txt)
+
+Desktop clients capture clipboard history. The browser interface requires explicit paste or synced content; it does not continuously read other apps’ clipboard. Password skipping depends on source-app markings and ignored-app settings.
 
 ## Links
 
